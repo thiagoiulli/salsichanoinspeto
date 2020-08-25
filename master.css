@@ -6,24 +6,28 @@ body {
   background-image: url("./imgs/images (14).jpeg");
   background-size: cover;
   text-shadow: 1px 1px 1px black;
-  color:  #90ee90;
+  color: #90ee90;
   font-size: 17px;
   font-family: 'Orbitron', sans-serif;
   text-align: center;
 }
-a:visited{
+
+a:visited {
   color: #d0417e;
   text-shadow: 1px 1px 1px blue;
 }
-a:hover{
+
+a:hover {
   color: #d2691e;
   text-shadow: 1px 1px 1px blue;
 }
-a:active{
+
+a:active {
   color: #d2691e;
   text-shadow: 1px 1px 1px blue;
 }
-a:link{
+
+a:link {
   color: #d0417e;
   text-shadow: 1px 1px 1px blue;
 }
